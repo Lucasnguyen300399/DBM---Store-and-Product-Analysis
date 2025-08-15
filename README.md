@@ -4,4 +4,4 @@ This project is one of my dedicated project when I was studying in University of
 2. Cube designed and implementation by SSAS
 3. PowerBI Dashboard, connected with Analysis Service
 
-This project is more simple compared Oracle project I had in charge in KPMG but is a step to get used to Microsoft Services
+This project is simpler compared Oracle project I had in charge in KPMG but is a step to get used to Microsoft Services
